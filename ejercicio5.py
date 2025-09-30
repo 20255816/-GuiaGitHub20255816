@@ -1,1 +1,1 @@
-print("Este es un commit de la rama ejercici5")
+print("Este es un commit de la rama ejercicio5")
